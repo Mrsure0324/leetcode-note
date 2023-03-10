@@ -1,0 +1,27 @@
+{
+  "name": "leetcode-note",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrsure0324/leetcode-note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrsure0324/leetcode-note/issues"
+  },
+  "bin": {
+    "note": "./bin/index.js"
+  },
+  "homepage": "https://github.com/Mrsure0324/leetcode-note#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^7.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^6.1.2"
+  }
+}
